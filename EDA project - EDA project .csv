@@ -1,0 +1,204 @@
+Loan_ID,Gender,Married,Dependents,Education,Name_income_type,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+LP001002,Male,No,0,Graduate,Working,202500,0,,360,1,Urban,Y
+LP001003,Male,Yes,1,Graduate,State servant,270000,1508,500000,360,0,Rural,N
+LP001005,Male,Yes,0,Graduate,Working,67500,0,200000,360,1,Urban,Y
+LP001006,Male,Yes,0,Not Graduate,Working,100000,2358,400000,360,1,Urban,Y
+LP001008,Male,No,0,Graduate,Working,121500,0,300000,360,1,Urban,Y
+LP001011,Male,Yes,2,Graduate,State servant,99000,4196,700000,360,1,Urban,Y
+LP001013,Male,Yes,0,Not Graduate,Commercial associate,121000,1516,800000,360,1,Urban,Y
+LP001014,XNA,Yes,3,Graduate,State servant,360000,2504,600000,360,0,Urban,N
+LP001018,Male,Yes,2,Graduate,Pensioner,112500,1526,700000,360,,Urban,Y
+LP001020,Male,Yes,1,Graduate,Working,135000,10968,800000,360,0,Urban,N
+LP001024,Male,Yes,2,Graduate,Working,112500,700,90000,360,1,Urban,Y
+LP001027,Male,No,2,Graduate,Student,38419.155,1840,100000,360,1,Urban,Y
+LP001028,Male,Yes,2,Graduate,Working,67500,8106,200000,360,1,Urban,Y
+LP001029,Male,No,0,Graduate,Working,225000,2840,300000,360,0,Rural,N
+LP001030,Male,Yes,2,Graduate,Working,189000,1086,600000,120,1,Urban,Y
+LP001032,XNA,No,0,Graduate,Working,157500,0,500000,360,1,Urban,Y
+LP001034,Male,No,1,Not Graduate,Working,108000,0,700000,240,,Urban,Y
+LP001036,Female,No,0,Graduate,Working,81000,0,600000,360,0,Urban,N
+LP001038,Male,Yes,0,Not Graduate,Working,112500,0,200000,360,0,Rural,N
+LP001041,Male,Yes,0,Graduate,State servant,90000,3500,400000,,1,Urban,Y
+LP001043,Male,Yes,0,Not Graduate,Working,115000,0,300000,360,0,Urban,N
+LP001046,Male,Yes,1,Graduate,Commercial associate,202500,5625,700000,360,1,Urban,Y
+LP001047,Male,Yes,0,Not Graduate,Working,450000,1911,800000,360,0,Urban,N
+LP001050,Female,No,2,Not Graduate,Student,83250,1917,600000,360,0,Rural,N
+LP001052,Male,Yes,1,Graduate,Working,135000,2925,700000,360,,Urban,N
+LP001066,Male,Yes,0,Graduate,Working,90000,0,800000,360,1,Urban,Y
+LP001068,Male,Yes,0,Graduate,Working,112500,2253,90000,360,1,Urban,Y
+LP001073,Male,Yes,2,Not Graduate,Working,112500,1040,100000,360,1,Urban,Y
+LP001086,Male,No,0,Not Graduate,State servant,115000,0,200000,360,0,Urban,N
+LP001087,Female,No,2,Graduate,Working,90000,2083,300000,360,1,Urban,Y
+LP001091,Male,Yes,1,Graduate,Commercial associate,292500,3369,600000,360,0,Urban,N
+LP001095,Male,No,0,Graduate,Working,112500,0,150000,360,0,Urban,N
+LP001097,Male,No,1,Graduate,Working,90000,0,300000,360,0,Rural,N
+LP001098,Male,Yes,0,Graduate,Commercial associate,360000,1667,600000,360,1,Semiurban,Y
+LP001100,Male,No,3,Graduate,State servant,135000,3000,600000,360,0,Rural,N
+LP001106,Male,Yes,0,Graduate,Working,112500,2067,,360,1,Urban,Y
+LP001109,Male,Yes,0,Graduate,Commercial associate,198000,1330,80000,,0,Urban,N
+LP001112,Female,Yes,0,Graduate,Working,121500,1459,100000,360,1,Urban,Y
+LP001114,Male,No,0,Graduate,Student,99000,7210,200000,360,1,Urban,Y
+LP001116,Male,No,0,Not Graduate,Working,110000,1668,300000,360,1,Urban,Y
+LP001119,Male,No,0,Graduate,Commercial associate,202500,0,600000,360,0,Urban,N
+LP001120,Male,No,0,Graduate,Working,202500,1213,500000,360,1,Urban,Y
+LP001123,Male,Yes,0,Graduate,Working,135000,0,700000,360,,Urban,Y
+LP001131,Male,No,0,Graduate,Student,108000,2336,600000,360,1,Urban,Y
+LP001136,Male,Yes,0,Not Graduate,Working,140500,0,700000,,1,Urban,Y
+LP001137,Female,No,0,Graduate,Working,90000,0,600000,,1,Urban,Y
+LP001138,Male,No,1,Graduate,Student,202500,0,600000,360,1,Urban,Y
+LP001144,Male,Yes,0,Graduate,Working,99000,0,700000,360,1,Urban,Y
+LP001146,Female,Yes,0,Graduate,State servant,130500,3440,300000,360,0,Urban,N
+LP001151,Female,No,0,Graduate,Working,360000,2275,200000,360,1,Urban,Y
+LP001155,Female,Yes,0,Not Graduate,State servant,54000,1644,400000,360,1,Urban,Y
+LP001157,Female,No,0,Graduate,Commercial associate,540000,0,500000,360,1,Urban,Y
+LP001164,Female,No,0,Graduate,Working,76500,0,500000,360,0,Urban,N
+LP001179,Male,Yes,2,Graduate,Commercial associate,225000,0,200000,360,0,Urban,N
+LP001186,Female,No,1,Graduate,Student,81000,0,700000,360,0,Urban,N
+LP001194,Male,Yes,2,Graduate,Working,180000,1167,600000,360,1,Urban,Y
+LP001195,Male,No,0,Graduate,Student,67500,1591,500000,360,1,Urban,Y
+LP001197,Male,Yes,0,Graduate,Working,81000,2200,150000,360,0,Rural,N
+LP001198,Male,Yes,1,Graduate,Working,360000,2250,300000,360,1,Urban,Y
+LP001199,Male,Yes,2,Not Graduate,Working,120000,2859,400000,360,,Urban,Y
+LP001205,Male,Yes,0,Graduate,Commercial associate,180000,3796,300000,360,1,Urban,Y
+LP001206,Male,Yes,3,Graduate,Working,180000,0,500000,360,1,Urban,Y
+LP001207,Male,Yes,0,Not Graduate,Student,100000,3449,300000,180,0,Rural,N
+LP001213,Male,Yes,1,Graduate,Working,112500,0,,360,0,Rural,N
+LP001222,Female,No,0,Graduate,Commercial associate,180000,0,300000,360,0,Urban,N
+LP001225,Male,Yes,0,Graduate,Commercial associate,180000,4595,700000,360,0,Urban,N
+LP001228,Male,No,0,Not Graduate,State servant,180000,2254,800000,180,0,Urban,N
+LP001233,Male,Yes,1,Graduate,Working,225000,0,600000,360,1,Urban,Y
+LP001238,Male,Yes,3,Not Graduate,Commercial associate,157500,0,700000,60,1,Urban,Y
+LP001241,Female,No,0,Graduate,Commercial associate,180000,0,800000,360,0,Urban,N
+LP001243,Male,Yes,0,Graduate,Commercial associate,180000,3066,90000,360,1,Urban,Y
+LP001245,Male,Yes,2,Not Graduate,Working,103500,1875,100000,360,1,Urban,Y
+LP001248,Male,No,0,Graduate,Working,225000,0,200000,300,1,Urban,Y
+LP001250,XNA,Yes,3,Not Graduate,Working,104500,0,300000,,0,Urban,N
+LP001253,Male,Yes,0,Graduate,Commercial associate,135000,1774,600000,360,1,Urban,Y
+LP001255,Male,No,0,Graduate,Working,202500,0,500000,480,0,Urban,N
+LP001256,Male,No,0,Graduate,Commercial associate,112500,4750,700000,360,,Urban,N
+LP001259,Male,Yes,1,Graduate,Working,135000,3022,600000,360,0,Urban,N
+LP001263,Male,Yes,3,Graduate,Working,94500,4000,700000,300,0,Urban,N
+LP001264,Male,Yes,3,Not Graduate,Student,108000,2166,600000,360,,Urban,Y
+LP001265,Female,No,0,Graduate,Working,67500,0,600000,360,1,Urban,Y
+LP001266,Male,No,1,Graduate,Student,81000,0,,360,1,Urban,Y
+LP001267,Female,Yes,2,Graduate,Working,157500,1881,600000,360,,Urban,N
+LP001273,Male,Yes,0,Graduate,Working,225000,2250,700000,360,,Urban,N
+LP001275,Male,Yes,1,Graduate,Student,360000,0,800000,240,1,Urban,Y
+LP001279,Male,No,0,Graduate,Working,202500,2531,90000,360,1,Urban,Y
+LP001280,Male,Yes,2,Not Graduate,State servant,212500,2000,100000,360,,Urban,Y
+LP001282,Male,Yes,0,Graduate,Working,126000,2118,200000,360,1,Urban,Y
+LP001289,Male,No,0,Graduate,Working,72000,0,300000,360,1,Urban,Y
+LP001310,Male,Yes,0,Graduate,Working,90000,4167,600000,360,1,Urban,Y
+LP001316,Male,Yes,0,Graduate,Working,193500,2900,500000,360,1,Urban,Y
+LP001318,Male,Yes,2,Graduate,Working,171000,5654,700000,180,1,Urban,Y
+LP001319,Male,Yes,2,Not Graduate,Commercial associate,135000,1820,600000,360,1,Urban,Y
+LP001322,Male,No,0,Graduate,Commercial associate,112500,0,700000,360,1,Urban,Y
+LP001325,Male,No,0,Not Graduate,Commercial associate,123000,0,600000,120,1,Urban,Y
+LP001326,Male,No,0,Graduate,Working,76500,0,,360,,Urban,N
+LP001327,Female,Yes,0,Graduate,Commercial associate,135000,2302,700000,360,1,Urban,Y
+LP001333,Male,Yes,0,Graduate,Working,90000,997,800000,360,1,Urban,Y
+LP001334,Male,Yes,0,Not Graduate,Working,243000,0,600000,180,1,Urban,Y
+LP001343,XNA,No,0,Graduate,Student,90000,3541,700000,360,1,Urban,Y
+LP001345,Male,Yes,2,Not Graduate,Working,54000,3263,800000,180,1,Urban,Y
+LP001349,Male,No,0,Graduate,Working,135000,3806,90000,360,1,Urban,Y
+LP001350,Male,Yes,0,Graduate,Working,126000,0,,360,1,Urban,Y
+LP001356,Male,No,0,Graduate,Commercial associate,76500,3583,,360,1,Urban,Y
+LP001357,XNA,Yes,0,Graduate,Working,103500,754,100000,360,1,Urban,Y
+LP001367,Male,No,1,Graduate,Student,225000,1030,200000,360,1,Urban,Y
+LP001369,Male,No,2,Graduate,Student,126000,1126,300000,360,1,Urban,Y
+LP001370,Male,No,0,Not Graduate,Working,135000,0,600000,360,1,Rural,N
+LP001379,Male,Yes,2,Graduate,Student,112500,3600,500000,360,0,Urban,N
+LP001384,Male,Yes,3,Not Graduate,Working,85500,754,700000,480,1,Semiurban,Y
+LP001385,Male,No,0,Graduate,Commercial associate,157500,0,600000,360,1,Urban,Y
+LP001387,Female,Yes,0,Graduate,Commercial associate,270000,2333,700000,360,1,Semiurban,Y
+LP001391,Male,Yes,0,Not Graduate,Commercial associate,122500,4114,600000,,0,Rural,N
+LP001392,Female,No,1,Graduate,Working,67500,0,,360,1,Semiurban,Y
+LP001398,Male,No,0,Graduate,Commercial associate,202500,0,200000,360,1,Semiurban,Y
+LP001401,Male,Yes,1,Graduate,Commercial associate,135000,0,400000,180,1,Rural,Y
+LP001404,Female,Yes,0,Graduate,State servant,157500,2283,300000,360,1,Semiurban,Y
+LP001405,Male,Yes,1,Graduate,Student,225000,1398,700000,360,,Urban,Y
+LP001421,Male,No,0,Graduate,Student,135000,2142,800000,360,1,Rural,N
+LP001422,Female,No,0,Graduate,Working,157500,0,600000,360,1,Urban,Y
+LP001426,Male,Yes,0,Graduate,Commercial associate,157500,2667,700000,360,1,Rural,Y
+LP001430,Female,No,0,Graduate,State servant,360000,0,800000,360,1,Semiurban,Y
+LP001431,Female,No,0,Graduate,State servant,162000,8980,90000,360,0,Semiurban,Y
+LP001432,Male,Yes,2,Graduate,Working,112500,0,100000,360,1,Semiurban,Y
+LP001439,Male,Yes,0,Not Graduate,Working,102500,2014,200000,360,1,Rural,Y
+LP001443,Female,No,0,Graduate,Student,117000,0,300000,360,,Rural,Y
+LP001448,Female,Yes,3,Graduate,Working,135000,0,600000,360,1,Rural,Y
+LP001449,Male,No,0,Graduate,Commercial associate,247500,1640,,360,1,Rural,Y
+LP001451,Male,Yes,1,Graduate,Working,171000,3850,500000,180,0,Urban,N
+LP001465,Male,Yes,0,Graduate,Commercial associate,135000,2569,200000,360,,Rural,N
+LP001469,XNA,No,0,Graduate,Working,157500,0,400000,480,,Urban,Y
+LP001473,Male,No,0,Graduate,Working,202500,1929,300000,360,1,Urban,Y
+LP001478,Male,No,0,Graduate,Working,144000,0,700000,360,1,Semiurban,Y
+LP001482,Male,Yes,0,Graduate,Working,157500,0,800000,120,1,Semiurban,Y
+LP001487,Male,No,0,Graduate,Commercial associate,157500,0,600000,360,1,Semiurban,Y
+LP001488,Male,Yes,3,Graduate,Working,180000,7750,700000,360,1,Semiurban,N
+LP001489,Female,Yes,0,Graduate,Commercial associate,180000,0,800000,360,1,Rural,N
+LP001491,Male,Yes,2,Graduate,Commercial associate,225000,3500,90000,360,1,Urban,Y
+LP001492,Male,No,0,Graduate,Working,292500,0,100000,360,0,Semiurban,N
+LP001493,Male,Yes,2,Not Graduate,Commercial associate,90000,1430,200000,360,1,Rural,N
+LP001497,Male,Yes,2,Graduate,Student,112500,2083,300000,360,1,Rural,N
+LP001498,Male,No,0,Graduate,Working,130500,0,600000,360,1,Urban,Y
+LP001504,Male,No,0,Graduate,Commercial associate,450000,0,500000,180,1,Semiurban,Y
+LP001507,Male,No,0,Graduate,Student,175500,2034,700000,360,1,Semiurban,Y
+LP001508,Male,Yes,2,Graduate,Working,58500,0,600000,180,1,Urban,Y
+LP001514,XNA,Yes,0,Graduate,Commercial associate,180000,4486,200000,360,1,Semiurban,Y
+LP001516,Female,Yes,2,Graduate,Working,117000,0,400000,360,1,Urban,Y
+LP001518,Male,Yes,1,Graduate,Working,180000,1425,300000,360,1,Urban,Y
+LP001519,Female,No,0,Graduate,Working,202500,1666,700000,360,1,Rural,N
+LP001520,Male,Yes,0,Graduate,Working,135000,830,800000,360,1,Semiurban,Y
+LP001528,Male,No,0,Graduate,Working,112500,0,600000,360,0,Rural,N
+LP001529,Female,Yes,0,Graduate,Working,119250,3750,700000,360,1,Rural,Y
+LP001531,Female,No,0,Graduate,Commercial associate,202500,0,800000,360,1,Urban,N
+LP001532,Female,Yes,2,Not Graduate,Commercial associate,125000,0,90000,360,1,Rural,N
+LP001535,Female,No,0,Graduate,Working,157500,0,100000,360,1,Urban,Y
+LP001536,Male,Yes,3,Graduate,Working,112500,0,200000,180,0,Semiurban,Y
+LP001541,Male,Yes,1,Graduate,Student,103500,0,300000,360,,Rural,Y
+LP001543,Male,No,1,Graduate,Student,58500,0,600000,360,1,Urban,Y
+LP001546,Male,No,0,Graduate,Student,117000,2083,150000,360,1,Rural,Y
+LP001552,Male,Yes,0,Graduate,Working,225000,5625,300000,360,1,Semiurban,Y
+LP001560,Male,Yes,0,Not Graduate,Working,135000,1041,600000,360,1,Semiurban,Y
+LP001562,Male,Yes,0,Graduate,Commercial associate,162000,0,80000,360,1,Urban,N
+LP001565,Male,Yes,1,Graduate,Working,112500,1280,100000,360,0,Semiurban,N
+LP001570,Male,Yes,2,Graduate,Commercial associate,111915,1447,200000,360,1,Rural,Y
+LP001572,Male,Yes,0,Graduate,Commercial associate,225000,0,300000,180,1,Urban,Y
+LP001574,Male,Yes,0,Graduate,Working,157500,3166,600000,,1,Rural,Y
+LP001577,Female,Yes,0,Graduate,Commercial associate,90000,0,500000,360,1,Rural,N
+LP001578,Male,Yes,0,Graduate,Working,164250,3333,700000,360,1,Rural,Y
+LP001579,Male,No,0,Graduate,Working,157500,0,600000,480,0,Semiurban,N
+LP001580,Male,Yes,2,Graduate,Working,135000,0,700000,360,1,Semiurban,Y
+LP001581,Male,Yes,0,Not Graduate,Working,112500,1769,600000,360,1,Rural,Y
+LP001585,Female,Yes,3,Graduate,Working,216000,0,600000,300,1,Urban,Y
+LP001586,Male,Yes,3,Not Graduate,Commercial associate,120000,0,700000,180,1,Rural,N
+LP001594,Male,Yes,0,Graduate,Student,67500,5625,300000,360,1,Semiurban,Y
+LP001603,XNA,No,0,Not Graduate,Student,154000,736,200000,360,1,Semiurban,N
+LP001606,Male,No,0,Graduate,Student,81000,1964,400000,360,1,Rural,Y
+LP001608,Male,Yes,2,Graduate,Working,63000,1619,500000,360,1,Rural,Y
+LP001610,Male,Yes,3,Graduate,Commercial associate,157500,11300,500000,360,0,Semiurban,N
+LP001616,Female,Yes,1,Graduate,Working,157500,0,200000,360,1,Semiurban,Y
+LP001630,Male,No,0,Not Graduate,Commercial associate,130000,1451,700000,480,0,Urban,N
+LP001633,Male,Yes,1,Graduate,Commercial associate,180000,7250,600000,360,0,Urban,N
+LP001634,Male,No,0,Graduate,Working,202500,5063,500000,360,,Rural,N
+LP001636,Male,Yes,0,Graduate,Commercial associate,225000,0,150000,180,1,Semiurban,Y
+LP001637,Male,Yes,1,Graduate,Working,49500,0,300000,360,1,Semiurban,N
+LP001639,Female,Yes,0,Graduate,Commercial associate,202500,0,400000,360,1,Semiurban,Y
+LP001640,Male,No,0,Graduate,Student,90000,4750,300000,360,1,Semiurban,Y
+LP001641,Male,Yes,1,Graduate,Working,90000,0,500000,300,0,Rural,N
+LP001643,Male,Yes,0,Graduate,Working,180000,2138,300000,360,,Rural,Y
+LP001644,Female,Yes,0,Graduate,Commercial associate,337500,5296,300000,360,1,Rural,Y
+LP001647,Male,Yes,0,Graduate,Commercial associate,315000,0,600000,180,1,Rural,Y
+LP001653,Male,No,0,Not Graduate,Commercial associate,115000,0,500000,360,1,Rural,Y
+LP001656,Male,No,0,Graduate,Commercial associate,225000,0,700000,360,1,Semiurban,N
+LP001657,Male,Yes,0,Not Graduate,Commercial associate,125000,0,600000,360,1,Urban,N
+LP001658,Male,No,0,Graduate,Commercial associate,157500,0,200000,360,1,Semiurban,Y
+LP001664,Male,No,0,Graduate,Working,112500,0,400000,360,1,Rural,Y
+LP001665,Male,Yes,1,Graduate,Working,292500,2583,300000,360,1,Semiurban,N
+LP001666,Male,No,0,Graduate,State servant,121500,3750,700000,360,1,Rural,Y
+LP001669,Female,No,0,Not Graduate,Working,147500,2365,800000,,1,Urban,Y
+LP001671,Female,Yes,0,Graduate,Working,135000,2816,600000,360,,Semiurban,Y
+LP001673,Male,No,0,Graduate,Commercial associate,108000,0,700000,360,1,Urban,N
+LP001674,Female,Yes,1,Not Graduate,Working,146000,2500,800000,360,1,Semiurban,Y
+LP001677,Male,No,2,Graduate,Working,67500,0,90000,360,0,Semiurban,Y
+LP001682,XNA,Yes,3,Not Graduate,Working,135000,0,,180,1,Urban,N
